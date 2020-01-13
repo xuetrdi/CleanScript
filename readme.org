@@ -1,0 +1,2 @@
+* Clean Script On My Mac
+  Clean Devlopment environment on my Mac
